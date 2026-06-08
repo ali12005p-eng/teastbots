@@ -7,7 +7,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, InlineQ
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, InlineQueryHandler, MessageHandler, filters, ContextTypes
 from telegram.error import BadRequest
 
-TELEGRAM_TOKEN = "0000" # توكنكك
+TELEGRAM_TOKEN = "7073305470:AAGEUznCLlWoCpxN-e9Gp3tIuKQ1HNaGj_M" # توكنكك
 
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO)
 
