@@ -4,7 +4,7 @@ import os
 import time
 from telebot import types
 
-BOT_TOKEN = "7413223912:AAE1ZDjOjE1t5CLhcnhU3Nu6i1bTVbo_iYM"
+BOT_TOKEN = "8994170717:AAF0F9VV4UITSuryt43vYya0AqCqHT0uLTY"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 API_URL = "https://vcdfg.darksidehost.com/so/api.php?url="
