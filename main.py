@@ -22,7 +22,7 @@ from datetime import datetime
 
 #قناة المبرمج @FileeCode
 
-TOKEN = '000000'
+TOKEN = '7073305470:AAGEUznCLlWoCpxN-e9Gp3tIuKQ1HNaGj_M'
 AbuHamza = [7598650992] 
 bot = telebot.TeleBot(TOKEN)
 
